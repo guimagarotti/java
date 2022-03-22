@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Main02 {
-  public static void main02(String[] args) {
+  public static void main(String[] args) {
     String letra;
     Scanner exibe;
     
