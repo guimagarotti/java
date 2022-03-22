@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class Main08 {
   public static void main(String[] args) {
     float n1, n2, n3, n4, media;
     Scanner exibe;

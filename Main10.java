@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class Main10 {
   public static void main(String args[]) {
     String nome;
     float peso;
