@@ -1,14 +1,15 @@
 {
     "java.project.sourcePaths": [
-        "exercicios/ex009",
-        "exercicios/ex008",
-        "exercicios/ex007",
-        "exercicios/ex006",
-        "exercicios/ex005",
-        "exercicios/ex004",
-        "exercicios/ex003",
-        "exercicios/ex002",
-        "exercicios/ex001",
-        "exercicios/ex010"
+        "exercicios-lista01/ex010",
+        "exercicios-lista01/ex009",
+        "exercicios-lista01/ex008",
+        "exercicios-lista01/ex007",
+        "exercicios-lista01/ex006",
+        "exercicios-lista01/ex005",
+        "exercicios-lista01/ex004",
+        "exercicios-lista01/ex003",
+        "exercicios-lista01/ex002",
+        "exercicios-lista01/ex001",
+        "exercicios-lista02"
     ]
 }
