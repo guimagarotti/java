@@ -1,0 +1,105 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ex005",
+            "request": "launch",
+            "mainClass": "ex005",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex004",
+            "request": "launch",
+            "mainClass": "ex004",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex003",
+            "request": "launch",
+            "mainClass": "ex003",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex002",
+            "request": "launch",
+            "mainClass": "ex002",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main01",
+            "request": "launch",
+            "mainClass": "Main01",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main04",
+            "request": "launch",
+            "mainClass": "Main04",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main05",
+            "request": "launch",
+            "mainClass": "Main05",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main06",
+            "request": "launch",
+            "mainClass": "Main06",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main07",
+            "request": "launch",
+            "mainClass": "Main07",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main08",
+            "request": "launch",
+            "mainClass": "Main08",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main09",
+            "request": "launch",
+            "mainClass": "Main09",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main10",
+            "request": "launch",
+            "mainClass": "Main10",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex001",
+            "request": "launch",
+            "mainClass": "ex001",
+            "projectName": "java_547f8181"
+        }
+    ]
+}
