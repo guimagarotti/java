@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch if_else",
+            "request": "launch",
+            "mainClass": "if_else",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch ex015",
             "request": "launch",
             "mainClass": "ex015",
