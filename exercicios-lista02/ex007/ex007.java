@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ex007 {
     public static void main(String[] args) {
         String produto;
-        double valorproduto, valorporquinho, moedas1real, moedas50cent , moedas25cent, moedas5cent, moedas1cent;
+        double valorproduto, valorporquinho, moedas1real, moedas50cent , moedas25cent, moedas10cent, moedas5cent, moedas1cent;
         Scanner exibe;
 
         exibe = new Scanner(System.in);
@@ -23,14 +23,19 @@ public class ex007 {
         System.out.print("Quantas moedas de 25 centavos no cofre: ");
         moedas25cent = exibe.nextDouble() * 0.25;
         
+        System.out.print("Quantas moedas de 10 centavos no cofre: ");
+        moedas10cent = exibe.nextDouble() * 0.1;
+        
         System.out.print("Quantas moedas de 5 centavos no cofre: ");
         moedas5cent = exibe.nextDouble() * 0.05;
 
         System.out.print("Quantas moedas de 1 centavo no cofre: ");
         moedas1cent = exibe.nextDouble() * 0.01;
 
-        valorporquinho = moedas1real + moedas50cent + moedas25cent + moedas5cent + moedas1cent;
+        valorporquinho = moedas1real + moedas50cent + moedas25cent + moedas10cent + moedas5cent + moedas1cent;
 
+        System.out.println("Você tem " + valorporquinho + "R$");
+        
         if (valorproduto > valorporquinho) {
             System.out.println("Valor do cofre insuficiente!");
         } else {
