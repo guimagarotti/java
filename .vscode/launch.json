@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch for_ex",
+            "request": "launch",
+            "mainClass": "for_ex",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch if_else",
             "request": "launch",
             "mainClass": "if_else",
