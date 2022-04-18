@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ex013",
+            "request": "launch",
+            "mainClass": "ex013.ex013",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex012",
+            "request": "launch",
+            "mainClass": "ex012.ex012",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex011",
+            "request": "launch",
+            "mainClass": "ex011.ex011",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex010",
+            "request": "launch",
+            "mainClass": "ex010.ex010",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex009",
+            "request": "launch",
+            "mainClass": "ex009.ex009",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch ex008",
             "request": "launch",
             "mainClass": "ex008.ex008",
