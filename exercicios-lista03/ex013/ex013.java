@@ -15,6 +15,7 @@ public class ex013 {
                 maior = num;
                 menor = num;
             }
+            
             if (num > maior) {
                 maior = num;
             }
