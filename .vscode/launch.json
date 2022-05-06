@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ovidio03",
+            "request": "launch",
+            "mainClass": "ovidio03",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ovidio02",
+            "request": "launch",
+            "mainClass": "ovidio02",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch asc2",
+            "request": "launch",
+            "mainClass": "asc2",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo_switch",
+            "request": "launch",
+            "mainClass": "exemplo_switch",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch_case",
+            "request": "launch",
+            "mainClass": "switch_case",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch ex015",
             "request": "launch",
             "mainClass": "ex015.ex015",
