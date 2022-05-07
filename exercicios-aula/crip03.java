@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ovidio03 {
+public class crip03 {
     public static void main(String[] args) {
         String msg;
         Scanner scanner = new Scanner(System.in);

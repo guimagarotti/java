@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ovidio02 {
+public class crip02 {
     public static void main(String[] args) {
         String texto;
         Scanner exibe = new Scanner(System.in);
