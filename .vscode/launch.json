@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch ex001",
             "request": "launch",
             "mainClass": "ex001",
