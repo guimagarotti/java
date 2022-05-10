@@ -20,18 +20,20 @@ public class index {
             System.out.println("===================");           
         } else {
             System.out.println(""); 
-            System.out.println("[OK]");
-            System.out.print("Digite sua senha: ");
-            senha = scanner.nextInt();
-
-            if (senha != senhaValid) {
-                for (int c = 1; c <= 2; c++) {
-                    System.out.println("[ERRO] Senha incorreta!");
-                    System.out.print("Digite a senha novamente: ");
-                    senha = scanner.nextInt();           
-                }
+            System.out.println("[ACESSANDO SUA CONTA]");
+        }
+        
+        System.out.print("Digite a senha: ");
+        senha = scanner.nextInt();
+        
+        if (senha != senhaValid) {
+            do {
+                
             }
-        }        
+        } else if (senha == senhaValid) {
+            System.out.println("NÂO");
+        }       
+        
     }
 }
 
