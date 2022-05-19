@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch buceta",
+            "request": "launch",
+            "mainClass": "buceta",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
             "name": "Launch banco",
             "request": "launch",
             "mainClass": "banco",
