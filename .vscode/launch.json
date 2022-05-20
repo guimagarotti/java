@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ex7",
+            "request": "launch",
+            "mainClass": "ex7",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex6",
+            "request": "launch",
+            "mainClass": "ex6",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch String9",
+            "request": "launch",
+            "mainClass": "String9",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch crip02",
+            "request": "launch",
+            "mainClass": "crip02",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ac2",
+            "request": "launch",
+            "mainClass": "ac2",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
             "name": "Launch buceta",
             "request": "launch",
             "mainClass": "buceta",
