@@ -2,29 +2,32 @@ import java.util.Scanner;
 
 public class ex6 {
     public static void main(String[] args) {
-        char c;
+        char caractere;
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite um caractere: ");
-        c = scanner.next().charAt(0);
+        caractere = scanner.next().charAt(0);
             
-        if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) {
-            int numerico = c;
-            int c120 = (int)c + 120;
-            char converte = (char)c120;
+        if ((caractere >= 'A' && caractere <= 'Z') || (caractere >= 'a' && caractere <= 'z')) {
+            // LETRA
+            int inteiro = (int)caractere;
+            int c120A = caractere + 120;
+            char converteA = (char)c120A;
     
-            System.out.println("O valor numérico de " + c + " é: " + numerico);
-            System.out.println("O valor de " + c + ", 120 casas a frente, vale: " + converte);            
+            System.out.println("O valor numérico de " + caractere + " é: " + inteiro); // A
             
-            String charToString = Character.toString(converte);
-            System.out.println("Letra maiúscula: " + charToString.toUpperCase());
-            System.out.println("Letra minúscula: " + charToString.toLowerCase());
-    
-            if (c >= 'A' && c <= 'Z') {
-                System.out.println("Letra alternada: " + charToString.toLowerCase());
-            } else if (c >= 'a' && c <= 'z') {
-                System.out.println("Letra alternada: " + charToString.toUpperCase());
-            }
+            String charToString = Character.toString(caractere);
+            System.out.println("Letra maiúscula: " + charToString.toUpperCase()); // C
+            System.out.println("Letra minúscula: " + charToString.toLowerCase()); // D
+            
+            System.out.println("O valor de " + caractere + ", 120 casas a frente, vale: " + converteA); // B         
+        } else if (caractere >= '1' && caractere <= '9') {
+            // NUMERO
+            int c120B = caractere + 120;
+            char converteB = (char)c120B;
+            
+            System.out.println("O valor numérico de " + caractere + " é: " + caractere); // A
+            System.out.println("O valor de " + caractere + ", 120 casas a frente, vale: " + converteB); // B         
         }
     }
 }
