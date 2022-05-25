@@ -20,7 +20,13 @@ public class ex6 {
             System.out.println("Letra maiúscula: " + charToString.toUpperCase()); // C
             System.out.println("Letra minúscula: " + charToString.toLowerCase()); // D
             
-            System.out.println("O valor de " + caractere + ", 120 casas a frente, vale: " + converteA); // B         
+            if (caractere >= 'A' && caractere <= 'Z') {
+                System.out.println("Letra Alternada: " + charToString.toLowerCase()); // E
+            } else {
+                System.out.println("Letra Alternada: " + charToString.toUpperCase()); // E
+            }
+            
+            System.out.println("O valor de " + caractere + ", 120 casas a frente, vale: " + converteA); // B
         } else if (caractere >= '1' && caractere <= '9') {
             // NUMERO
             int c120B = caractere + 120;
@@ -29,5 +35,7 @@ public class ex6 {
             System.out.println("O valor numérico de " + caractere + " é: " + caractere); // A
             System.out.println("O valor de " + caractere + ", 120 casas a frente, vale: " + converteB); // B         
         }
+
+
     }
 }
