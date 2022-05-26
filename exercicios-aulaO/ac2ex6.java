@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex6 {
+public class ac2ex6 {
     public static void main(String[] args) {
         char caractere;
         Scanner scanner = new Scanner(System.in);
@@ -35,7 +35,8 @@ public class ex6 {
             System.out.println("O valor numérico de " + caractere + " é: " + caractere); // A
             System.out.println("O valor de " + caractere + ", 120 casas a frente, vale: " + converteB); // B         
         }
-
-
     }
 }
+
+
+

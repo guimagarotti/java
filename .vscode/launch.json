@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ac2ex6",
+            "request": "launch",
+            "mainClass": "ac2ex6",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch ac2ex7a",
+            "request": "launch",
+            "mainClass": "ac2ex7a",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch cifra",
+            "request": "launch",
+            "mainClass": "cifra",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch decifra",
+            "request": "launch",
+            "mainClass": "decifra",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
             "name": "Launch ex6",
             "request": "launch",
             "mainClass": "ex6",
