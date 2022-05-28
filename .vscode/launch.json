@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cubo",
+            "request": "launch",
+            "mainClass": "cubo",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch matriz2",
+            "request": "launch",
+            "mainClass": "matriz2",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch matriz",
+            "request": "launch",
+            "mainClass": "matriz",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch vetorFor",
+            "request": "launch",
+            "mainClass": "vetorFor",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
+            "name": "Launch vetor",
+            "request": "launch",
+            "mainClass": "vetor",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch ac2ex6",
             "request": "launch",
             "mainClass": "ac2ex6",
