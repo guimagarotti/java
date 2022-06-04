@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RevisaoTop1",
+            "request": "launch",
+            "mainClass": "revisao.RevisaoTop1",
+            "projectName": "java_9676e00a"
+        },
+        {
+            "type": "java",
             "name": "Launch cubo",
             "request": "launch",
             "mainClass": "cubo",
