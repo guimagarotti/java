@@ -22,6 +22,7 @@ public class RevisaoTop1 {
                 matrizR[i][j] = matriz1[i][j] + matriz2[i][j];
                 System.out.printf("\t %d \t", matrizR[i][j]);
             }
+            System.out.println();
         }
     }
 }

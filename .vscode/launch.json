@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RevisaoTop2$Main",
+            "request": "launch",
+            "mainClass": "RevisaoTop2$Main",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch RevisaoTop1",
+            "request": "launch",
+            "mainClass": "RevisaoTop1",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
             "name": "Launch matriz",
             "request": "launch",
             "mainClass": "matriz",

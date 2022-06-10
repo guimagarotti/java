@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "exercicios-marcio/while",
         "exercicios-marcio/vetor",
+        "exercicios-marcio/matriz",
         "exercicios-lista04",
         "exercicios-lista03",
         "exercicios-lista02/ex015",
@@ -28,6 +29,6 @@
         "exercicios-lista01/ex004",
         "exercicios-lista01/ex001",
         "exercicio-AC2",
-        "exercicios-marcio/matriz"
+        "exercicios-marcio/revisao"
     ]
 }
