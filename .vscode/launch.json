@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch matriz",
+            "request": "launch",
+            "mainClass": "matriz",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
+            "name": "Launch cubo",
+            "request": "launch",
+            "mainClass": "cubo",
+            "projectName": "java_547f8181"
+        },
+        {
+            "type": "java",
             "name": "Launch rev",
             "request": "launch",
             "mainClass": "rev",
